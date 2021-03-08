@@ -9,7 +9,7 @@
 syntax = "proto2";
 
 package onnx;
-import "onnx/onnx.proto";
+import "quicksilver/quicksilver/cc_lib/engine/tensorrt/onnx-tensorrt/third_party/onnx/onnx/onnx.proto";
 
 //
 // This file contains the proto definitions for OperatorSetProto and
